@@ -1,0 +1,46 @@
+#name {
+    text-align: center;
+    font-size: 21px;
+    padding: 10px;
+}
+
+* {
+    background-color:rgb(198, 232, 255);
+    color:rgb(68, 68, 68);
+    font-family: Verdana, sans-serif;
+}
+
+.body {
+    display: block;
+    margin:auto;
+    width: 100%;
+    text-align: center;
+}
+.links {
+    display: inline-block;
+    text-align: left;
+    font-size:20px;
+
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.center {
+        display: block;
+        margin:auto;
+        width: 100%;
+        text-align: center;
+    }
+
+.title {
+    text-align: center;
+    padding: 10px;
+}
+
+.recipe {
+    display:inline-block;
+    text-align: left;
+}
